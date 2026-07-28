@@ -1,0 +1,15 @@
+{
+  "name": "Bank App Prototype",
+  "short_name": "BankApp",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#051630",
+  "theme_color": "#2e6bdf",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2830/2830284.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
